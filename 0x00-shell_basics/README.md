@@ -1,1 +1,2 @@
-My first alx system engineering devops
+#!/bin/bash
+copies all the HTML files from the current working directory to the parent of the working directory
