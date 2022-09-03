@@ -1,2 +1,2 @@
 #!/bin/bash
-script that copies all the HTML files from the current working directory
+script that deletes all files in the current working directory that end with the character ~
